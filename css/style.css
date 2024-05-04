@@ -84,11 +84,14 @@ header{
 /* ---------------------------END HEADER SECTION STYLE--------------------------- */
 /* ---------------------------START MAIN SECTION STYLE--------------------------- */
 .main{
-    width: 95%;
+    width: 85%;
     margin: auto;
     display: flex;
     margin-top: 10px;
     margin-bottom: 10px;
+}
+.main .left-info .content{
+    margin-top: 85px;
 }
 .main .left-info .content h3{
     color: #182C39;
@@ -99,7 +102,7 @@ header{
 .left-info{
     width: 30%;
     background-color: #1597C9;
-    border-radius: 5%;
+    border-radius: 3%;
 }
 .left-info .content{
     width: 90%;
